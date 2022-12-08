@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my back-end dev skill.<br>👯 I’m looking to collaborate on Android Dev as well as PHP.<br>🤝 I’m looking for help with Node.js.<br>🌱 I’m currently learning Node.js with Express.<br>💬 Ask me about Android Development, Project Deployment Related Questions etc.<br>⚡ Fun fact, I have been learning about Computer Science for more than 4 years but still I find it joyful and interesting. 
-
+🔭 I’m currently working on my back-end dev skill.<br>👯 I’m looking to collaborate on projects based on Android Dev, Laravel(PHP) as well as Node.js<br>🤝 I’m looking for full-time opportunity in Back-End Development.<br>🌱 I’m currently learning more about Full Stack Development<br>💬 Ask me about Android Development(Java), Project Deployment and Web Dev(PHP, Javascript) Related Questions etc.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-thomble/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Dhananjay-Thomble) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10967683) 
@@ -10,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DhananjayThomble&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DhananjayThomble&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayThomble&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayThomble&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=java,kotlin)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DhananjayThomble&theme=radical&no-frame=false&no-bg=false&margin-w=4)
