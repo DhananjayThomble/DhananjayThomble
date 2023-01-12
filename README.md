@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my back-end dev skill.<br>👯 I’m looking to collaborate on projects based on Android Dev, Laravel(PHP) as well as Node.js<br>🤝 I’m looking for full-time opportunity in Back-End Development.<br>🌱 I’m currently learning more about Full Stack Development<br>💬 Ask me about Android Development(Java), Project Deployment and Web Dev(PHP, Javascript) Related Questions etc.
+🔭 I’m currently working on my Full-Stack Dev skill.<br>👯 I’m looking to collaborate on projects based on Android Dev, Laravel(PHP) as well as Node.js<br>🤝 I’m looking for full-time opportunity in Back-End Development.<br>🌱 I’m currently learning more about MERN Stack <br>💬 Ask me about Android Development(Java), Project Deployment and Web Dev(PHP, Javascript) Related Questions etc.
 
 
 ## 🌐 Socials:
