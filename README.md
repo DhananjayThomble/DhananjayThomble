@@ -5,7 +5,7 @@ I'm a software developer 👨‍💻 with a passion for creating innovative solu
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhananjay-thomble) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dhananjay-Thomble) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10967683) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhananjay_t97) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dhananjaythomble)
-[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://blog.dhananjaythomble.me)
+[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://codechamp.hashnode.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/DhananjayThomble)
 [![Replit](https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white)](https://replit.com/@dhananjayT97)
 
