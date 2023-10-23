@@ -2,12 +2,37 @@
 I'm a software developer 👨‍💻 with a passion for creating innovative solutions to complex problems. I specialize in BackEnd Development, and have experience working with Javascript, PHP, Java, MERN Stack, LEMP Stack, AWS and Android Development.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhananjay-thomble) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dhananjay-Thomble) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10967683) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dhananjay_t97) 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dhananjaythomble)
-[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://codechamp.hashnode.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/DhananjayThomble)
-[![Replit](https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white)](https://replit.com/@dhananjayT97)
+<div style="display: flex; align-items: center;">
+  <a href="https://twitter.com/GitHubEducation/status/1714633733012136203">
+    <img src="https://pbs.twimg.com/media/F8uZwL1WQAA3iPa?format=jpg&name=900x900" width="400" alt="DhananjayThomble" />
+  </a>
+  <div style="margin-left: 16px;">
+    <a href="https://linkedin.com/in/dhananjay-thomble"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://quora.com/profile/Dhananjay-Thomble"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora" /></a>
+    <a href="https://stackoverflow.com/users/10967683"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+    <a href="https://twitter.com/dhananjay_t97"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://www.hackerrank.com/dhananjaythomble"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+    <a href="https://codechamp.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" alt="HashNode" /></a>
+    <a href="https://github.com/DhananjayThomble"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://replit.com/@dhananjayT97"><img src="https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white" alt="Replit" /></a>
+  </div>
+</div>
+
+[//]: # (<a href="https://twitter.com/GitHubEducation/status/1714633733012136203"> <img src="https://pbs.twimg.com/media/F8uZwL1WQAA3iPa?format=jpg&name=900x900" width="300" alt="DhananjayThomble"/> </a>)
+
+[//]: # ([![Dhananjay Thomble]&#40;https://pbs.twimg.com/media/F8uZwL1WQAA3iPa?format=jpg&name=900x900&#41;]&#40;https://twitter.com/GitHubEducation/status/1714633733012136203&#41;)
+
+[//]: # (## 🌐 Socials:)
+
+[//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&#41;]&#40;https://linkedin.com/in/dhananjay-thomble&#41; [![Quora]&#40;https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&#41;]&#40;https://quora.com/profile/Dhananjay-Thomble&#41; [![Stack Overflow]&#40;https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&#41;]&#40;https://stackoverflow.com/users/10967683&#41; [![Twitter]&#40;https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&#41;]&#40;https://twitter.com/dhananjay_t97&#41; )
+
+[//]: # ([![HackerRank]&#40;https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&#41;]&#40;https://www.hackerrank.com/dhananjaythomble&#41;)
+
+[//]: # ([![HashNode]&#40;https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&#41;]&#40;https://codechamp.hashnode.dev&#41;)
+
+[//]: # ([![GitHub]&#40;https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&#41;]&#40;https://github.com/DhananjayThomble&#41;)
+
+[//]: # ([![Replit]&#40;https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white&#41;]&#40;https://replit.com/@dhananjayT97&#41;)
 
 
 
@@ -16,7 +41,7 @@ I'm a software developer 👨‍💻 with a passion for creating innovative solu
 # 📊 GitHub Stats:
 ![](https://github-readme-sand.vercel.app/api?username=DhananjayThomble&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DhananjayThomble&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-sand.vercel.app/api/top-langs/?username=DhananjayThomble&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=java,kotlin)
+![](https://github-readme-sand.vercel.app/api/top-langs/?username=DhananjayThomble&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS,HTML,Blade)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DhananjayThomble&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -24,5 +49,6 @@ I'm a software developer 👨‍💻 with a passion for creating innovative solu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=DhananjayThomble&icon=2&color=0)](https://visitcount.itsvg.in)
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
