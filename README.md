@@ -3,9 +3,9 @@ I'm a software developer 👨‍💻 with a passion for creating innovative solu
 
 
 <div style="display: flex; align-items: center;">
-  <a href="https://twitter.com/GitHubEducation/status/1714633733012136203">
+<!--   <a href="https://twitter.com/GitHubEducation/status/1714633733012136203">
     <img src="https://pbs.twimg.com/media/F8uZwL1WQAA3iPa?format=jpg&name=900x900" width="400" alt="DhananjayThomble" />
-  </a>
+  </a> -->
   <div style="margin-left: 16px;">
     <a href="https://linkedin.com/in/dhananjay-thomble"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://quora.com/profile/Dhananjay-Thomble"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora" /></a>
